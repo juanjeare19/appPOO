@@ -1,0 +1,13 @@
+D:\ProyectoC#\appPOO\appPOO\bin\Debug\appPOO.exe.config
+D:\ProyectoC#\appPOO\appPOO\bin\Debug\appPOO.exe
+D:\ProyectoC#\appPOO\appPOO\bin\Debug\appPOO.pdb
+D:\ProyectoC#\appPOO\appPOO\bin\Debug\Clases.dll
+D:\ProyectoC#\appPOO\appPOO\bin\Debug\Clases.pdb
+D:\ProyectoC#\appPOO\appPOO\obj\Debug\appPOO.csproj.AssemblyReference.cache
+D:\ProyectoC#\appPOO\appPOO\obj\Debug\appPOO.Form1.resources
+D:\ProyectoC#\appPOO\appPOO\obj\Debug\appPOO.Properties.Resources.resources
+D:\ProyectoC#\appPOO\appPOO\obj\Debug\appPOO.csproj.GenerateResource.cache
+D:\ProyectoC#\appPOO\appPOO\obj\Debug\appPOO.csproj.CoreCompileInputs.cache
+D:\ProyectoC#\appPOO\appPOO\obj\Debug\appPOO.csproj.CopyComplete
+D:\ProyectoC#\appPOO\appPOO\obj\Debug\appPOO.exe
+D:\ProyectoC#\appPOO\appPOO\obj\Debug\appPOO.pdb
